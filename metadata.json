@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Termitoon Link Sharer",
+  "description": "A smart, fast, and automated application for managing and sharing movie and animation links. It intelligently redirects users to the appropriate player based on their device (iOS or Android).",
+  "requestFramePermissions": []
+}
